@@ -1,0 +1,20 @@
+{
+  "count": 96,
+  "width": 800,
+  "height": 1094,
+  "mobileWidth": 480,
+  "mobileHeight": 657,
+  "desktopPattern": "desktop/frame-{index}.webp",
+  "mobilePattern": "mobile/frame-{index}.webp",
+  "indexPadding": 3,
+  "poster": "poster.webp",
+  "night": "night.webp",
+  "sourceDuration": 7.979,
+  "crop": [
+    0,
+    263,
+    1057,
+    1709
+  ],
+  "method": "Spatial matte from the connected exterior background; interior protected; same matte retained through the nighttime background change."
+}
